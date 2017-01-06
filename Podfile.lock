@@ -1,0 +1,29 @@
+PODS:
+  - Masonry (0.6.4)
+  - ReactiveCocoa (2.5):
+    - ReactiveCocoa/UI (= 2.5)
+  - ReactiveCocoa/Core (2.5):
+    - ReactiveCocoa/no-arc
+  - ReactiveCocoa/no-arc (2.5)
+  - ReactiveCocoa/UI (2.5):
+    - ReactiveCocoa/Core
+  - SDWebImage (3.8.2):
+    - SDWebImage/Core (= 3.8.2)
+  - SDWebImage/Core (3.8.2)
+  - UIColor-Utilities (1.0.1)
+
+DEPENDENCIES:
+  - Masonry (~> 0.5)
+  - ReactiveCocoa (~> 2.3)
+  - SDWebImage (~> 3.7)
+  - UIColor-Utilities (~> 1.0)
+
+SPEC CHECKSUMS:
+  Masonry: 281802d04d787ea2973179ee8bcb50500579ede2
+  ReactiveCocoa: e2db045570aa97c695e7aa97c2bcab222ae51f4a
+  SDWebImage: 098e97e6176540799c27e804c96653ee0833d13c
+  UIColor-Utilities: 6746a54dcdb3bc012dd7aeaeea5588ae2100beb2
+
+PODFILE CHECKSUM: 8466275b3cf76505b67ec5ba27600b2df602c7be
+
+COCOAPODS: 1.1.1
